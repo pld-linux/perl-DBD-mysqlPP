@@ -11,7 +11,7 @@ Name:		perl-DBD-mysqlPP
 Version:	0.04
 Release:	1
 # same as perl
-License:	GPL or Artistic
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	7b6a31289c8c2e54bfcdfcdbd54da9b2
