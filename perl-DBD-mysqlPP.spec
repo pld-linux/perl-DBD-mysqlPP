@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	DBD
-%define	pnam	mysqlPP
+%define		pdir	DBD
+%define		pnam	mysqlPP
 Summary:	DBD::mysqlPP - pure Perl MySQL driver for the DBI
 Summary(pl):	DBD::mysqlPP - czysto perlowy sterownik do MySQL-a dla DBI
 Name:		perl-DBD-mysqlPP
