@@ -19,7 +19,7 @@ Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version
 BuildRequires:	perl-DBI >= 1.0
 BuildRequires:	perl-Net-MySQL >= 0.08
 %endif
-BuildRequires:	perl-devel >= 5.8.0
+BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 Requires:	perl-Net-MySQL >= 0.08
 BuildArch:	noarch
