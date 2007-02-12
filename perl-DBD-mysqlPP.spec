@@ -6,7 +6,7 @@
 %define		pdir	DBD
 %define		pnam	mysqlPP
 Summary:	DBD::mysqlPP - pure Perl MySQL driver for the DBI
-Summary(pl):	DBD::mysqlPP - czysto perlowy sterownik do MySQL-a dla DBI
+Summary(pl.UTF-8):   DBD::mysqlPP - czysto perlowy sterownik do MySQL-a dla DBI
 Name:		perl-DBD-mysqlPP
 Version:	0.04
 Release:	1
@@ -33,13 +33,13 @@ client library like libmysqlclient for this module to work.
 It means this module enables you to connect to MySQL server from
 some operation systems which MySQL is not ported.
 
-%description -l pl
+%description -l pl.UTF-8
 DBD::mysqlPP to czysto perlowy sterownik do MySQL-a dla DBI (perlowego
-interfejsu do baz danych). Ten modu³ jest implementacj± protoko³u
-sieciowego miêdzy serwerem a klientem MySQL-a, przez co nie wymaga do
-dzia³ania zewnêtrznej biblioteki klienckiej MySQL-a, takiej jak
-libmysqlclient. Oznacza to, ¿e modu³ ten umo¿liwia po³±czenie z
-serwerem MySQL nawet z systemu operacyjnego, na który MySQL nie zosta³
+interfejsu do baz danych). Ten moduÅ‚ jest implementacjÄ… protokoÅ‚u
+sieciowego miÄ™dzy serwerem a klientem MySQL-a, przez co nie wymaga do
+dziaÅ‚ania zewnÄ™trznej biblioteki klienckiej MySQL-a, takiej jak
+libmysqlclient. Oznacza to, Å¼e moduÅ‚ ten umoÅ¼liwia poÅ‚Ä…czenie z
+serwerem MySQL nawet z systemu operacyjnego, na ktÃ³ry MySQL nie zostaÅ‚
 sportowany.
 
 %prep
