@@ -9,7 +9,7 @@ Summary:	DBD::mysqlPP - pure Perl MySQL driver for the DBI
 Summary(pl.UTF-8):	DBD::mysqlPP - czysto perlowy sterownik do MySQL-a dla DBI
 Name:		perl-DBD-mysqlPP
 Version:	0.04
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
