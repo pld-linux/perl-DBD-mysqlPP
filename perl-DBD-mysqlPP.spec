@@ -4,7 +4,6 @@
 
 %define		pdir	DBD
 %define		pnam	mysqlPP
-%include	/usr/lib/rpm/macros.perl
 Summary:	DBD::mysqlPP - pure Perl MySQL driver for the DBI
 Summary(pl.UTF-8):	DBD::mysqlPP - czysto perlowy sterownik do MySQL-a dla DBI
 Name:		perl-DBD-mysqlPP
